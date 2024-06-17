@@ -1,0 +1,10 @@
+h1 {
+    font-size: 24px;
+    font-weight: bolder;
+    line-height: 32px;
+    color: darkmagenta;
+}
+header {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}

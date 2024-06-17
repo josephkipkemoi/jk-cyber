@@ -1,0 +1,41 @@
+
+{
+    "data":  [
+        {
+            "service_name": "KRA Pin Application",
+            "service_charge": 200,
+            "government_fee": "Free",
+            "requirements": ["ID Number", "Date of Birth", "Email Address", "Phone Number"],
+            "image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuJLd11mH3TGJvtPHMIlK_P9YB4pHoeVF8VA&s",
+            "duration": "5-10 minutes",
+            "service_type": "Online Registration"
+        },
+        {
+            "service_name": "KRA Pin Retrieval",
+            "service_charge": 1000,
+            "government_fee": "Free",
+            "requirements": ["ID Number"],
+            "image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuJLd11mH3TGJvtPHMIlK_P9YB4pHoeVF8VA&s",
+            "duration": "10 minutes",
+            "service_type": "Online Application"
+        },
+        {
+            "service_name": "File KRA Returns",
+            "service_charge": 1000,
+            "government_fee": "Free",
+            "requirements": ["ID Number"],
+            "image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuJLd11mH3TGJvtPHMIlK_P9YB4pHoeVF8VA&s",
+            "duration": "10 minutes",
+            "service_type": "Online Application"
+        },
+        {
+            "service_name": "Email Change",
+            "service_charge": 1000,
+            "government_fee": "Free",
+            "requirements": ["ID Number"],
+            "image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuJLd11mH3TGJvtPHMIlK_P9YB4pHoeVF8VA&s",
+            "duration": "10 minutes",
+            "service_type": "Online Application"
+        }
+    ]
+}

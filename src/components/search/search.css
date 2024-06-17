@@ -1,0 +1,14 @@
+.search-bar-icon {
+    position: relative;
+}
+.search-bar-icon input {
+    padding-left: 42px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-right: 42px;
+}
+.search-icon {
+    position: absolute;
+    left: 18px;
+    color: gray;
+}

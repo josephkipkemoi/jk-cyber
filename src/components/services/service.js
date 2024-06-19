@@ -12,7 +12,7 @@ const ServicesMainComponent = () => {
 const KRAServices = () => {
     return (
         <div>
-            <div className="card card-header border-0 bg-danger rounded-3">
+            <div className="card card-header border-0 bg-dark rounded-0">
                 <h5 className="text-white">Kenya Revenue Authority (K.R.A.) Services</h5>
             </div>
             <div className="d-sm-flex justify-content-around m-2">
